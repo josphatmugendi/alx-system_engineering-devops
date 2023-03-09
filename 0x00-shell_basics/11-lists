@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la prent_dir=$(dirname "$(pwd)") ls -la "$parent_dir" ls -la /boot
+ls -la
