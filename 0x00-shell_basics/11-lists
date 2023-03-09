@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Parent directory:"ls -la
+ls -la /boot
